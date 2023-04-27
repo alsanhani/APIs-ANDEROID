@@ -1,0 +1,26 @@
+com/example/myapplication3/BuildConfig.java
+ com.example.myapplication3.BuildConfig
+com/example/myapplication3/MainActivity.java
+ com.example.myapplication3.MainActivity
+ com.example.myapplication3.MainActivity$1
+ com.example.myapplication3.MainActivity$1$1
+ com.example.myapplication3.MainActivity$1$2
+ com.example.myapplication3.MainActivity$1$3
+com/example/myapplication3/Piaf.java
+ com.example.myapplication3.Piaf
+ com.example.myapplication3.Piaf$1
+ com.example.myapplication3.Piaf$1$1
+ com.example.myapplication3.Piaf$1$2
+ com.example.myapplication3.Piaf$1$3
+ com.example.myapplication3.Piaf$2
+ com.example.myapplication3.Piaf$2$1
+ com.example.myapplication3.Piaf$2$2
+ com.example.myapplication3.Piaf$2$3
+com/example/myapplication3/Register.java
+ com.example.myapplication3.Register
+ com.example.myapplication3.Register$1
+ com.example.myapplication3.Register$1$1
+ com.example.myapplication3.Register$1$2
+ com.example.myapplication3.Register$1$3
+com/example/myapplication3/Success.java
+ com.example.myapplication3.Success
